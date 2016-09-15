@@ -32,9 +32,10 @@ de:
     mailer:
       confirmation_instructions:
         action: Mein Konto bestätigen
-        greeting: Willkommen %{recipient}!
+        greeting: Willkommen %{recipient} bei where2help Wien!
         instruction: 'Folge dem untenstehenden Link, um Dein Konto zu bestätigen:'
         subject: Anleitung zur Bestätigung Deines Accounts
+        message: 'Vielen Dank für Deine freiwillige Hilfe! where2help Wien'
       ngo_confirmation_instructions:
         instruction: |
           Folge dem untenstehenden Link, um Dein Konto zu bestätigen."
